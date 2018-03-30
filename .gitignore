@@ -1,0 +1,9 @@
+# npm
+node_modules/
+
+# Webstorm IDE
+.idea/
+
+# emacs
+*~
+#*
